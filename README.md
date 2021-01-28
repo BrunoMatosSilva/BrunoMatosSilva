@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente estou trabalhando com Suporte Técnico.
-- 🌱 Estou estudando/aprendendo Javascript/React/Next.
-- 👯 Estou procurando trabalho em Front-End.
+- 🌱 Estou estudando/aprendendo **Javascript/React/Next.
+- 👯 Estou procurando trabalho em **Front-End.
 - 💻 Conhecimento em Front-End:
  - Figma;
  - Html;
@@ -12,7 +12,7 @@
  
  - 🔧 Ferramentas que estou Aprendendo/Utilizando em projetos:
  
- - React;
+ **- React;
  - NextJS;
  
- Atualmente Desenvolvendo meu Portifolio... ⏰
+ Atualmente Desenvolvendo meu **Portifolio... ⏰
