@@ -15,4 +15,10 @@
  **- React;
  - NextJS;
  
+ ## Projetos Atuais
+ 
  Atualmente Desenvolvendo meu **Portifolio... ⏰
+
+### Social
+
+[LinkedIn](https://www.linkedin.com/in/bmsfrontend/) - [Twitter](https://twitter.com/bmsfrontend)
