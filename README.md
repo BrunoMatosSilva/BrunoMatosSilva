@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando com Suporte Técnico.
-- 🌱 Atualmente estou estudando/aprendendo Javascript/React/Next.
+- 🌱 Estou estudando/aprendendo Javascript/React/Next.
 - 👯 Estou procurando trabalho em Front-End.
 - 💻 Conhecimento em Front-End:
  - Figma;
