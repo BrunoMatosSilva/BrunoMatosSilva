@@ -12,12 +12,13 @@
  
  - 🔧 Ferramentas que estou Aprendendo/Utilizando em projetos:
  
- **- React;
+ - React;
  - NextJS;
+ - Typescript;
  
  ## Projetos Atuais
  
- Atualmente Desenvolvendo meu **Portifolio... ⏰
+ Realizando o curso Ignite da Rockseat trilha ReactJS. 💻
 
 ### Social
 
