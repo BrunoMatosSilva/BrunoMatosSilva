@@ -8,6 +8,9 @@ Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Fr
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" height="30px" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" height="30px" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" />
+<img align="left" height="30px" src="https://seeklogo.com/images/P/prismic-logo-F6A173E6D0-seeklogo.com.png" />
+<img align="left" height="30px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png?hl=pt" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30px" src="https://img.stackshare.io/service/11751/FuQfC3sh_400x400.jpg" />
