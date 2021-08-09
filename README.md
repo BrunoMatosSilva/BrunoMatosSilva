@@ -24,4 +24,4 @@ Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Fr
 
 ### Social
 
-[LinkedIn](https://www.linkedin.com/in/bmsfrontend/) - [Twitter](https://twitter.com/bmsfrontend)
+[Linkedin](https://www.linkedin.com/in/bmsfrontend/) - [Twitter](https://twitter.com/bmsfrontend)
