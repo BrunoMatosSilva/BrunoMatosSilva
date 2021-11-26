@@ -1,8 +1,8 @@
 # Bruno Matos Silva 
 <img align="right" height="500px" src="https://user-images.githubusercontent.com/69808542/124537182-c6f80f80-ddef-11eb-865b-c18a5bd517b5.png" />
-Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Front-End</b> a 1 ano e meio e comecei a me aprofundar em <b>React,</b> para migrar de área profissional. Atualmente trabalho com <strong>Suporte Técnico</strong> na área de TI sou formando em <strong>Sistemas da Informação</strong>. Estou me preparando para ainda em 2021 começa um trabalho de Front-End.
+Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Front-End</b> a 1 ano e meio e comecei a me aprofundar em <b>Back-End, NodeJS</b> pois acabo desenvolvendo alguns projetos Freelancer ou Particulares. Buscando melhorar e seguir as tendencias do mercado, claro sem deixar a base esquecida.
 
-<h2>💻 Conhecimento em <strong>Front-End</strong>:</h2>
+<h2>💻 Conhecimento em <strong>Front-End e Back-End</strong>:</h2>
 <p><img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -15,6 +15,9 @@ Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Fr
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30px" src="https://img.stackshare.io/service/11751/FuQfC3sh_400x400.jpg" />
+<img align="left" height="30px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" />
+<img align="left" height="30px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" />
+<img align="left" height="30px" src="https://w7.pngwing.com/pngs/563/201/png-transparent-socket-io-node-js-express-js-network-socket-javascript-transfer-icon-cdr-angle-text-thumbnail.png" />
 <img height="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /></p>
 
  <br>
