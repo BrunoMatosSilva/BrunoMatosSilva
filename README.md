@@ -18,8 +18,11 @@ Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Fr
 <img align="left" height="30px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" />
 </p>
 <br>
- <br> 
-<img align="left" height="30px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /> [Portfolio](https://bmsfrontend.vercel.app/) <img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br> 
+<br>
+<br>
+
+[Portfolio](https://bmsfrontend.vercel.app/) <img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 ### Social
 
