@@ -1,6 +1,10 @@
 # Bruno Matos Silva 
 <img align="right" height="500px" src="https://user-images.githubusercontent.com/69808542/124537182-c6f80f80-ddef-11eb-865b-c18a5bd517b5.png" />
-Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Front-End</b> a 1 ano e meio e comecei a me aprofundar em <b>Back-End, NodeJS</b> pois acabo desenvolvendo alguns projetos Freelancer ou Particulares. Buscando melhorar e seguir as tendencias do mercado, claro sem deixar a base esquecida. Meu foco e ser um desenvolvedor Front-End sempre em grande evolução.
+Olá! É um prazer te receber aqui, meu nome é Bruno, sou de 1991.
+
+Formado em Sistemas da Informação pelo Centro Universitário Eniac, Trabalho desde 2005 com implantação e manutenção de equipamentos de TI.
+
+Sou apaixonado por toda a área de Tecnologia e estou em busca de entrar no mercado de desenvolvimento. Estou criando projetos particulares para praticar, sempre com as novas tecnologias e tendências, sem deixar boas práticas de código. Contudo sempre me desafio a implementar novas funcionalidades em novos projetos, para fixar o aprendizado diário.
 
 <h2>💻 Conhecimento em <strong>Front-End e Back-End</strong>:</h2>
 <p>
@@ -19,6 +23,9 @@ Me chamo Bruno Matos sou de 1991, moro em Guarulhos - SP , estou estudando <b>Fr
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo-300x300.png" />
+<img align="left" height="30px" src="https://spng.subpng.com/20180711/ght/kisspng-express-js-node-js-javascript-mongodb-node-js-5b461d27e2c179.3799330115313216399288.jpg" />
+<img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+<img align="left" height="30px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 </p>
 <br>
 <br> 
