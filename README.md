@@ -4,11 +4,7 @@ Sou um profissional experiente e apaixonado por tecnologia, com mais de 15 anos 
 
 Ao longo da minha carreira, desenvolvi habilidades técnicas e interpessoais excepcionais. Sou especialista em tecnologias web e mobile, com domínio avançado em React.js, React Native, NodeJS e AWS como Cloud Service. Meu papel como Desenvolvedor Full Stack me permite atuar em todas as etapas do desenvolvimento de software, desde a concepção até a implementação e manutenção de sistemas complexos.<br>
 
-Minhas habilidades interpessoais são um diferencial significativo. Tenho uma abordagem colaborativa, valorizo o trabalho em equipe e mantenho uma comunicação clara e concisa. Sou dedicado ao treinamento e desenvolvimento de novos talentos, tendo formado e orientado diversos jovens aprendizes e estagiários na área de Suporte Técnico e Infraestrutura.<br>
-
-Como empreendedor, nos últimos três anos tenho desenvolvido aplicativos e sistemas lançados em formato de SaaS e White Label. Essa experiência empresarial me proporcionou uma visão ampla do ciclo de vida do produto e uma capacidade aguçada de identificar e atender às necessidades dos clientes.<br>
-
-Em meu LinkedIn, compartilho insights sobre programação, sistemas e aplicações que desenvolvi ou com as quais colaborei. Se você busca um profissional comprometido, eficiente e apaixonado por tecnologia, será um prazer conectar e compartilhar experiências.<br>
+Minhas habilidades interpessoais são um diferencial significativo. Tenho uma abordagem colaborativa, valorizo o trabalho em equipe e mantenho uma comunicação clara e concisa. Sou dedicado ao treinamento e desenvolvimento de novos profissionais.<br>
 
 <h2>💻Minhas <strong>Skills e Power Up's</strong>:</h2>
 **React<br>
